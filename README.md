@@ -27,6 +27,14 @@ However, the assignments and solutions for the course are in Octave (or Matlab, 
 
 If any staff associated with this course believes this is a violation of the Honor Code, please contact me and I will remove the material immediately.
 
+## Requirements
+
+* Python 2.7.6
+* ipython==2.1.0
+* numpy==1.8.1
+* matplotlib==1.3.1
+* scipy==0.14.0
+
 ## How to Launch iPython Notebook
 
 iPython notebook's default behavior does not allow inline plots, nor does it allow matplotlib's default behavior of keeping the active plot open so that you can draw it multiple times. Most exercises require this behavior. It can be enabled by starting iPython notebook as follows:
