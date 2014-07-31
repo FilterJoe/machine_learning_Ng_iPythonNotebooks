@@ -1,5 +1,10 @@
 # Andrew Ng's Spring 2014 Machine Learning Course Rewritten in Python
 
+> Just let me see it! Preview these notebooks using NBViewer:
+[ex1](http://nbviewer.ipython.org/github/FilterJoe/machine_learning_Ng_iPythonNotebooks/tree/master/ex1)
+[ex2](http://nbviewer.ipython.org/github/FilterJoe/machine_learning_Ng_iPythonNotebooks/tree/master/ex2)
+[ex3](http://nbviewer.ipython.org/github/FilterJoe/machine_learning_Ng_iPythonNotebooks/tree/master/ex3)
+
 ## Introduction
 
 I took Andrew Ng's machine learning course on Coursera from March to May of 2014. It was a great intro to data science, using Octave, an open source Matlab clone. However, Python is my favorite language these days.
